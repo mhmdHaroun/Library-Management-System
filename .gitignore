@@ -4,6 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+.idea/
+
+src/main/resources/secretKey.txt
+
 ### STS ###
 .apt_generated
 .classpath
